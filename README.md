@@ -64,6 +64,7 @@ The Jupyter Notebook (KNN.ipynb) is organized into the following sections:
 <li> Data Cleaning </li>
 <li> Dataset Visualization using various graphs </li>
 <li> Implementation of a Logistic Regression Machine Learning model along with its evaluation using a classification report </li>   
+</ul>
 
 
 ## Data
