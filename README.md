@@ -95,22 +95,12 @@ Here is a description of what each of the columns in the dataset represent:
 
 
 ## Screenshots
-<h3> K-Nearest Neighbour (KNN) </h3>
-<h4> 1. This image shows how the value of the Root-Mean-Square-Error changes for increasing values of k. Further explanation of the results of the plot are explained in detail in the Jupyter Notebook. </h4>
-<img src="pic11.png" width="450px"> <br> 
+<h4> 1. This image shows how visualization techniques are used to infer valuable information form data. </h4>
+<img src="pic1.png" width="450px"> <br> 
 
-<h4> 2. This image shows the trajectory of the actual path of the micro-robot along with the trajectory predicted by the KNN algorithm <strong> implemented from scratch </strong>. You can change the value of 'start_second' in the code to compare the two trajectories for different six-second sets of times.  </h4>
-<img src="pic12.png" width="450px"> <br> 
+<h4> 2. This image shows a confusion matrix. It shows that most of the data was correctly classified by the logistic regression model, athough there are some false positives and false negatives.  </h4>
+<img src="pic2.png" width="450px"> <br> 
 
-<h4> 3. This image shows the trajectory of the actual path of the micro-robot along with the trajectory predicted by the KNN algorithm <strong> implemented using the scikit-learn library </strong>. You can change the value of 'start_second' in the code to compare the two trajectories for different six-second sets of times.  </h4>
-<img src="pic13.png" width="450px"> <br> 
-
-<h3> Regression Tree </h3>
-<h4> 1. This image shows how the value of the Root-Mean-Square-Error changes for increasing values of Lookback Size. Further explanation of the results of the plot are explained in detail in the Jupyter Notebook. </h4>
-<img src="pic21.png" width="450px"> <br> 
-
-<h4> 2. This image shows the trajectory of the actual path of the micro-robot along with the trajectory predicted by the KNN algorithm implemented using the scikit-learn library. You can change the value of 'start_second' in the code to compare the two trajectories for different six-second sets of times. </h4>
-<img src="pic22.png" width="450px"> <br> 
 
  
 ## License
